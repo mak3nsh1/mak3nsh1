@@ -1,4 +1,5 @@
-### Hi there 👋
+About Me
+Hello, my handle is Mak3nsh1.  I am the Owner and lead programmer for AzureGames, LLC.
 
 <!--
 **mak3nsh1/mak3nsh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
